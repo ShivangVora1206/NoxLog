@@ -13,6 +13,10 @@
   },
   "author": "",
   "license": "ISC",
+  "dependencies": {
+  "express": "^4.17.1",
+  "express-session":"*"
+  },
   "bugs": {
     "url": "https://github.com/ShivangVora1206/NoxLog/issues"
   },
