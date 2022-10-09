@@ -3,7 +3,7 @@ var mainDiv = document.querySelector("#main");
 var logoutButton = document.querySelector("#logoutbutton");
 var entries = [];
 var username = "";
-var apiurl = "http://127.0.0.1:3000"
+var apiurl = "https://nox-log.herokuapp.com"
 
 
 getUserName();
